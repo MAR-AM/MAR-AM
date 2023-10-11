@@ -8,7 +8,6 @@
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=mariem_AMZIL" alt="MAR-AM" /> </p>-->
 
 <!--[![HitCount](http://hits.dwyl.com/Raghav-byte/Raghav-byte.svg)](http://hits.dwyl.com//Raghav-byte)-->
-    <p>
  <h1> ↪ About me :</h1> <br>
     <h3>I'm mariem AMZIL from morroco , I'm a computer science student 🤓 , I'm passionate about technology, communities, and everything in-between. <br>
     I like programming, design, photography and I always want to learn new things.<br> </h3>
@@ -18,7 +17,6 @@
 - 💬 Ask me about anything and everything <br>
 - 📫 How to reach me: <br>
 </h4>
-</p>
     <p align="center">
 <a href="mariemamzil8@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="hedyli" height="52" width="40" /></a>
 <a href="https://instagram.com/paruxa_maria?igshid=OGQ5ZDc2ODk2ZA==" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="hedythedev" height="52" width="40" /></a>
