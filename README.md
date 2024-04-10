@@ -1,4 +1,4 @@
-<img src="https://www.canva.com/design/DAGCDi7bogk/Wxx1l0XTAisBzxr-kRB3JQ/edit?utm_content=DAGCDi7bogk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+<img src="main-qimg-a6dc26a08bb184c176bd420d149829b5.gif"
      height="300px" width ="300px">
 
   <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=4896&pause=&color=000000&center=true&vCenter=true&multiline=true&width=500&height=100&lines=%E2%99%A1+Hello+everyone!+I am+MAR-AM+%E2%99%A1;Welcome+to+my+profile!" alt="Typing SVG" /></a>
