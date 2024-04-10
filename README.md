@@ -1,4 +1,4 @@
-<img src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966"
+<img src="https://www.canva.com/design/DAGCDi7bogk/Wxx1l0XTAisBzxr-kRB3JQ/edit?utm_content=DAGCDi7bogk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
      height="300px" width ="300px">
 
   <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=4896&pause=&color=000000&center=true&vCenter=true&multiline=true&width=500&height=100&lines=%E2%99%A1+Hello+everyone!+I am+MAR-AM+%E2%99%A1;Welcome+to+my+profile!" alt="Typing SVG" /></a>
