@@ -8,10 +8,11 @@
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=mariem_AMZIL" alt="MAR-AM" /> </p>-->
 
 <!--[![HitCount](http://hits.dwyl.com/Raghav-byte/Raghav-byte.svg)](http://hits.dwyl.com//Raghav-byte)-->
- <h1 style="background-color:powderblue;"> ♡ About me :</h1> <br>
-    <h3>I'm mariem AMZIL from morroco , I'm a computer science student 🤓 , I'm passionate about technology, communities, and everything in-between. <br>
-    I like programming, design, photography and I always want to learn new things.<br> </h3>
-    <h4>
+ <h1> ♡ About me :</h1> <br>
+    <p>
+         I'm mariem AMZIL from morroco , I'm a computer science student 🤓 , I'm passionate about technology, communities, and everything in-between. <br>
+         I like programming, design, photography and I always want to learn new things.<br> </h3>
+    <\p>
 - 🔭 I’m currently working on taking rest <br>
 - 🤔 I’m looking for help in learning about Web Dev..! <br>
 - 💬 Ask me about anything and everything <br>
