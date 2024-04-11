@@ -20,7 +20,7 @@
 </h4>
     <p align="center">
 <a href="mariemamzil8@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="hedyli" height="52" width="40" /></a>
-<a href="https://instagram.com/paruxa_maria?igshid=OGQ5ZDc2ODk2ZA==" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="hedythedev" height="52" width="40" /></a>
+<a href="https://www.instagram.com/maram_dev/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="hedythedev" height="52" width="40" /></a>
 <a href="https://wa.me/+212648771444" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="hedy-li-8608831a6" height="52" width="40" /></a>
 <a href=" " target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="hedy" height="52" width="40" /></a>
 </p>
