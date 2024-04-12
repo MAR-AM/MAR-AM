@@ -60,5 +60,5 @@ I'm just getting started on my coding journey, and Python is my launchpad.
 <a href="https://git.io/streak-stats">
 <img src="https://streak-stats.demolab.com?user=MAR-AM&hide_border=false&card_width=500&border=4078c0&background=AE296800&stroke=4078c0&currStreakNum=FFB6C1&dates=4078c0&ring=4078c0&sideNums=FFB6C1&sideLabels=C040C0&currStreakLabel=C040C0&fire=C040C0" alt="GitHub Streak"/>
 </a>
-<img alt="Mariem AMZIL" src="https://github-readme-stats.vercel.app/api?username=MAR-AM&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
+<img alt="Mariem AMZIL" src="https://github-readme-stats.vercel.app/api?username=MAR-AM&&show_icons=true&title_color=ffffff&card_width=500&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
 
