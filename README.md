@@ -8,7 +8,7 @@
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=mariem_AMZIL" alt="MAR-AM" /> </p>-->
 
 <!--[![HitCount](http://hits.dwyl.com/Raghav-byte/Raghav-byte.svg)](http://hits.dwyl.com//Raghav-byte)-->
- <h1> ♡ About me :</h1> <br>
+  ## ♡ About Me : <br>
     <h4 style="font-family:courier;color:yellow">
          I'm mariem AMZIL from morroco , I'm a computer science student 🤓 , I'm passionate about technology, communities, and everything in-between. <br>
          I like programming, design, photography and I always want to learn new things.<br> </h4>
@@ -48,7 +48,6 @@
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=MAR-AM&theme=dracula)](https://git.io/streak-stats)
  -->
 
- ## ♡ Skills and technologies
 <img width="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" align="center" height="30" alt="python logo"  />
 I'm just getting started on my coding journey, and Python is my launchpad.
 
