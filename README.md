@@ -35,10 +35,12 @@ I'm just getting started on my coding journey, and Python is my launchpad.
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MAR-AM&theme=dracula)](https://git.io/streak-stats)
 
 
-<div>
-  <img src="https://github.com/er-hiba/er-hiba/blob/d1ab2d30b4a96f7a0ae7af8eff303b5e55d281d8/3purplehearts.gif" height="100" width="100">  
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?    font=Courier+Prime&size=32&pause=1&color=FF69B4&center=true&vCenter=true&multiline=true&random=true&width=715&height=100&lines=Hello+and+welcome+to+my+Code+Canvas" alt="Typing SVG" align="center" /></a>
-</div> -->
+<div align="center">
+<img src="https://github.com/er-hiba.png" width="290" height="270"><br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=2000&color=C040C0&background=4078C022&center=true&multiline=true&random=false&width=290&height=100&lines=First-Year+Digital;Development+Student+%E2%99%A1" alt="Typing SVG" /></a>
+<br><br>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=35&pause=1&color=C040C0 &vCenter=true&random=false&width=1270&height=45&lines=♡+Technologies :" alt="Typing SVG" /></a>
 
 
 
