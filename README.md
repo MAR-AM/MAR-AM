@@ -10,7 +10,7 @@
 <!--[![HitCount](http://hits.dwyl.com/Raghav-byte/Raghav-byte.svg)](http://hits.dwyl.com//Raghav-byte)-->
   ## ♡ About Me : 
 <h3 style="font-family: cursive;">
-I'm mariem AMZIL from morroco , I'm a computer science student 🤓 , I'm passionate about technology, communities,<br>  and everything in-between. <br> 
+I'm mariem AMZIL from morroco , I'm a computer science student 🤓 , I'm passionate about technology, communities,<br>  and everything in-between.
 I like programming, design, photography and I always want to learn new things.<br> <br>
 
          
