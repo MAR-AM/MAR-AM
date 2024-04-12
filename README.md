@@ -28,10 +28,8 @@
 
 
 ## ♡ Technologies and Tools :
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=35&pause=1&color=C040C0 &vCenter=true&random=false&width=1270&height=45&lines=♡+Technologies :" alt="Typing SVG" /></a>
 
-## ♡ GitHub Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MAR-AM&theme=dracula)](https://git.io/streak-stats)
+
 
 
 
