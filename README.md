@@ -36,10 +36,7 @@
 
 
 
-<div align="center">
-<img src="https://github.com/er-hiba.png" width="290" height="270"><br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=2000&color=C040C0&background=4078C022&center=true&multiline=true&random=false&width=290&height=100&lines=First-Year+Digital;Development+Student+%E2%99%A1" alt="Typing SVG" /></a>
-<br><br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=35&pause=1&color=C040C0 &vCenter=true&random=false&width=1270&height=45&lines=♡+Technologies :" alt="Typing SVG" /></a>
 
 
 
