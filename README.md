@@ -26,7 +26,7 @@
 </p>  
 
 
-<p align="center"><img style="color: darkslateblue" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MAR-AM&show_icons=true&locale=en&layout=compact" alt="MAR-AM" /></p>
+<p align="center"  width ="400px"><img style="color: darkslateblue" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MAR-AM&show_icons=true&locale=en&layout=compact" alt="MAR-AM" /></p>
 
 
 
