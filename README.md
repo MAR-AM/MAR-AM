@@ -8,7 +8,7 @@
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=mariem_AMZIL" alt="MAR-AM" /> </p>-->
 
 <!--[![HitCount](http://hits.dwyl.com/Raghav-byte/Raghav-byte.svg)](http://hits.dwyl.com//Raghav-byte)-->
-  ## ♡ About Me : 
+## ♡ About Me : 
 <h3 style="font-family: cursive;">
 I'm mariem AMZIL from morroco , I'm a computer science student 🤓 , I'm passionate about technology, communities, and everything in-between.
      
@@ -47,7 +47,7 @@ I like programming, design, photography and I always want to learn new things.<b
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=MAR-AM&theme=dracula)](https://git.io/streak-stats)
  -->
 
-## ♡ GitHub Stats
+## ♡ GitHub Stats :
 <br>
 
 <img src="https://github.com/MAR-AM/MAR-AM/blob/d1ab2d30b4a96f7a0ae7af8eff303b5e55d281d8/2hearts.gif" align="right" height="100" width="100">
@@ -58,7 +58,6 @@ I like programming, design, photography and I always want to learn new things.<b
 <img alt="Mariem AMZIL" src="https://github-readme-stats.vercel.app/api?username=MAR-AM&&show_icons=true&title_color=ffffff&card_width=500&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 
-#
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=35&pause=1&color=C040C0 &vCenter=true&random=false&width=1225&height=40&lines=♡+My+Contributions+:" alt="Typing SVG" /></a>
+## ♡ My Contributions :
 ----------------------------------------
 ![snake svg](https://github.com/er-hiba/er-hiba/blob/output/github-contribution-grid-snake.svg)
