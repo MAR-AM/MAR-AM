@@ -9,7 +9,7 @@
 
 <!--[![HitCount](http://hits.dwyl.com/Raghav-byte/Raghav-byte.svg)](http://hits.dwyl.com//Raghav-byte)-->
   ## ♡ About Me : 
-  
+<h3>
 I'm mariem AMZIL from morroco , I'm a computer science student 🤓 , I'm passionate about technology, communities,<br>  and everything in-between. <br>
 I like programming, design, photography and I always want to learn new things.<br> 
 
@@ -18,7 +18,7 @@ I like programming, design, photography and I always want to learn new things.<b
 - 🤔 I’m looking for help in learning about Web Dev..! <br>
 - 💬 Ask me about anything and everything <br>
 - 📫 How to reach me: <br>
-</h4>
+</h3>
     <p align="center">
 <a href="mariemamzil8@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="hedyli" height="52" width="40" /></a>
 <a href="https://www.instagram.com/maram_dev/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="hedythedev" height="52" width="40" /></a>
