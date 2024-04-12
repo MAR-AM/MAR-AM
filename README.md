@@ -35,6 +35,14 @@ I'm just getting started on my coding journey, and Python is my launchpad.
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MAR-AM&theme=dracula)](https://git.io/streak-stats)
 
 
+<div>
+  <img src="https://github.com/er-hiba/er-hiba/blob/d1ab2d30b4a96f7a0ae7af8eff303b5e55d281d8/3purplehearts.gif" height="100" width="100">  
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?    font=Courier+Prime&size=32&pause=1&color=FF69B4&center=true&vCenter=true&multiline=true&random=true&width=715&height=100&lines=Hello+and+welcome+to+my+Code+Canvas" alt="Typing SVG" align="center" /></a>
+</div> -->
+
+
+
+
 <p align="center" width ="700px"><img style="color: darkslateblue" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MAR-AM&show_icons=true&locale=en&layout=compact" alt="MAR-AM" /></p>
 
 
