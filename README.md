@@ -50,7 +50,7 @@ I like programming, design, photography and I always want to learn new things.<b
 ## ♡ GitHub Stats :
 <br>
 
-<img src="https://github.com/MAR-AM/MAR-AM/blob/d1ab2d30b4a96f7a0ae7af8eff303b5e55d281d8/2hearts.gif" align="right" height="100" width="100">
+<img src="https://github.com/MAR-AM" align="right" height="100" width="100">
 
 <a href="https://git.io/streak-stats">
 <img src="https://streak-stats.demolab.com?user=MAR-AM&hide_border=false&card_width=500&border=4078c0&background=AE296800&stroke=4078c0&currStreakNum=FFB6C1&dates=4078c0&ring=4078c0&sideNums=FFB6C1&sideLabels=C040C0&currStreakLabel=C040C0&fire=C040C0" alt="GitHub Streak"/>
