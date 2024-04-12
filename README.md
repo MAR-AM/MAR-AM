@@ -9,10 +9,9 @@
 
 <!--[![HitCount](http://hits.dwyl.com/Raghav-byte/Raghav-byte.svg)](http://hits.dwyl.com//Raghav-byte)-->
   ## ♡ About Me : 
-      <p>
-         I'm mariem AMZIL from morroco , I'm a computer science student 🤓 , I'm passionate about technology, communities, and everything in-between. <br>
-         I like programming, design, photography and I always want to learn new things.<br> 
-<\p>
+I'm mariem AMZIL from morroco , I'm a computer science student 🤓 , I'm passionate about technology, communities, and everything in-between. <br>
+I like programming, design, photography and I always want to learn new things.<br> 
+
          
 - 🔭 I’m currently working on taking rest <br>
 - 🤔 I’m looking for help in learning about Web Dev..! <br>
