@@ -30,8 +30,7 @@
 
 ## ♡ Technologies and Tools :
 
-<!-- <img src="https://github.com/er-hiba/er-hiba/blob/d1ab2d30b4a96f7a0ae7af8eff303b5e55d281d8/2hearts.gif" align="right" height="100" width="100"> -->
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=er-hiba&hide_border=false&card_width=400&border=4078c0&background=AE296800&stroke=4078c0&currStreakNum=FFB6C1&dates=4078c0&ring=4078c0&sideNums=FFB6C1&sideLabels=C040C0&currStreakLabel=C040C0&fire=C040C0" alt="GitHub Streak"/></a>
+
 
 
 
@@ -55,6 +54,8 @@
 I'm just getting started on my coding journey, and Python is my launchpad.
 
 ## ♡ GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MAR-AM&theme=dracula)](https://git.io/streak-stats) <br>
+ <br>
+<img src="https://github.com/er-hiba/er-hiba/blob/d1ab2d30b4a96f7a0ae7af8eff303b5e55d281d8/2hearts.gif" align="right" height="100" width="100">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=er-hiba&hide_border=false&card_width=400&border=4078c0&background=AE296800&stroke=4078c0&currStreakNum=FFB6C1&dates=4078c0&ring=4078c0&sideNums=FFB6C1&sideLabels=C040C0&currStreakLabel=C040C0&fire=C040C0" alt="GitHub Streak"/></a>
 <img alt="mariem AMZIL" src="https://github-readme-stats.vercel.app/api?username=MAR-AM&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
 
