@@ -23,12 +23,13 @@
 <a href="https://www.instagram.com/maram_dev/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="hedythedev" height="52" width="40" /></a>
 <a href="https://wa.me/+212648771444" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="hedy-li-8608831a6" height="52" width="40" /></a>
 <a href=" " target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="hedy" height="52" width="40" /></a>
-</p>
-<p><img style="color: darkslateblue" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MAR-AM&show_icons=true&locale=en&layout=compact" alt="MAR-AM" /></p>
+</p>  
 
 
-Languages and Tools:
-css3 html5 python java  javascript mysql
+<p align="center"><img style="color: darkslateblue" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MAR-AM&show_icons=true&locale=en&layout=compact" alt="MAR-AM" /></p>
+
+
+
 
 <img alt="mariem AMZIL" src="https://github-readme-stats.vercel.app/api?username=MAR-AM&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MAR-AM&" alt="MAR-AM" /></p>
