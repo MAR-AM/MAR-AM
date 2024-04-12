@@ -44,7 +44,6 @@
 
 
 
-<img alt="mariem AMZIL" src="https://github-readme-stats.vercel.app/api?username=MAR-AM&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MAR-AM&" alt="MAR-AM" /></p> -->
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=MAR-AM&theme=dracula)](https://git.io/streak-stats)
  -->
@@ -55,3 +54,5 @@ I'm just getting started on my coding journey, and Python is my launchpad.
 
 ## ♡ GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MAR-AM&theme=dracula)](https://git.io/streak-stats)
+<img alt="mariem AMZIL" src="https://github-readme-stats.vercel.app/api?username=MAR-AM&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
+
