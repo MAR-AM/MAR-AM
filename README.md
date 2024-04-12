@@ -59,4 +59,6 @@ I like programming, design, photography and I always want to learn new things.<b
 
 
 ## ♡ My Contributions :
-![snake svg](https://github.com/er-hiba/er-hiba/blob/output/github-contribution-grid-snake.svg)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MAR-AM&theme=dracula)](https://git.io/streak-stats)
+
+![snake svg](https://github.com/MAR-AM/MAR-AM/blob/output/github-contribution-grid-snake.svg)
