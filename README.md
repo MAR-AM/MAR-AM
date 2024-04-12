@@ -61,6 +61,6 @@ I like programming, design, photography and I always want to learn new things.<b
 ## ♡ My Contributions :
 
 
-![snake svg](https://cdn.jsdelivr.net/gh/MAR-AM/MAR-AM@output/github-contribution-grid-snake.svg)
+![snake svg](MAR-AM/MAR-AM/output/github-contribution-grid-snake.svg)
 
 
