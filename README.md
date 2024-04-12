@@ -26,6 +26,15 @@
 </p>  
 
 
+
+## ♡ Skills and technologies
+<img width="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" align="center" height="30" alt="python logo"  />
+I'm just getting started on my coding journey, and Python is my launchpad.
+
+## ♡ GitHub Stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=er-hiba&theme=dracula)](https://git.io/streak-stats)
+
+
 <p align="center" width ="700px"><img style="color: darkslateblue" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MAR-AM&show_icons=true&locale=en&layout=compact" alt="MAR-AM" /></p>
 
 
