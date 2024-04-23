@@ -1,5 +1,4 @@
-<img src="welcom.gif"
-     height="300px" width ="400px"/>
+<img src="welcom.gif">
 
 
 <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=4896&pause=&color=000000&center=true&multiline=true&width=700&height=100&lines=%E2%99%A1+Hello+everyone!+I am+MAR-AM+%E2%99%A1;Welcome+to+my+profile!" alt="Typing SVG" />
