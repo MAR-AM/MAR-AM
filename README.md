@@ -1,7 +1,7 @@
 <img src="main-qimg-a6dc26a08bb184c176bd420d149829b5.gif"
      height="300px" width ="400px">
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=4896&pause=&color=000000&center=true&multiline=true&width=600&height=100&lines=%E2%99%A1+Hello+everyone!+I am+MAR-AM+%E2%99%A1;Welcome+to+my+profile!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=4896&pause=&color=000000&center=true&multiline=true&width=700&height=100&lines=%E2%99%A1+Hello+everyone!+I am+MAR-AM+%E2%99%A1;Welcome+to+my+profile!" alt="Typing SVG" />
 
 
 <!--<h2 align="Center">  Hi 👋🏻 there, I'm <span style="color:orangered;font-weight:bold">MAR-AM</span <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h2>-->
