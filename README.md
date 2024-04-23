@@ -1,4 +1,4 @@
-<img src="main-qimg-a6dc26a08bb184c176bd420d149829b5.gif"
+<img src="welcom.gif"
      height="300px" width ="400px">
 
 
