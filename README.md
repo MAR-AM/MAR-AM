@@ -1,5 +1,5 @@
-<img src="![image](https://github.com/MAR-AM/MAR-AM/assets/147107786/22770a00-be05-4fcc-9f66-a70dc339a66d)"
-     height="300px" width ="400px">
+<img src="main-qimg-a6dc26a08bb184c176bd420d149829b5.gif"
+     height="300px" width ="400px">
 
 
 
