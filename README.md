@@ -1,5 +1,5 @@
-<img src="![image](https://github.com/MAR-AM/MAR-AM/assets/147107786/69f2b93e-34f2-465c-a322-8c1eac743228)">
-
+<img src="main-qimg-a6dc26a08bb184c176bd420d149829b5.gif"
+     height="300px" width="600px">
 
 <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=4896&pause=&color=000000&center=true&multiline=true&width=700&height=100&lines=%E2%99%A1+Hello+everyone!+I am+MAR-AM+%E2%99%A1;Welcome+to+my+profile!" alt="Typing SVG" />
 
