@@ -32,8 +32,7 @@ I like programming, design, photography and I always want to learn new things.<b
 
 <br>
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" align="center" height="57"> <img src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png" align="center" height="60"><img src="https://cdn.freebiesupply.com/logos/large/2x/git-icon-logo-png-transparent.png" align="center" height="45"> <img src="https://img.icons8.com/color/64/null/html-5--v1.png" align="center" height="57"> <img src="https://pngicon.ru/file/uploads/css3-256x256.png" align="center" height="45"> <img src="http://pluspng.com/img-png/bootstrap-logo-vector-png-bem-with-bootstrap-bootstrap-logo-1024.png" align="center" height="50"> <img src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" align="center" height="50"> ![image](https://github.com/MAR-AM/MAR-AM/assets/147107786/9de4826f-5f68-4041-9e71-43a695941141)
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" align="center" height="57"> <img src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png" align="center" height="60"><img src="https://cdn.freebiesupply.com/logos/large/2x/git-icon-logo-png-transparent.png" align="center" height="45"> <img src="https://img.icons8.com/color/64/null/html-5--v1.png" align="center" height="57"> <img src="https://pngicon.ru/file/uploads/css3-256x256.png" align="center" height="45"> <img src="http://pluspng.com/img-png/bootstrap-logo-vector-png-bem-with-bootstrap-bootstrap-logo-1024.png" align="center" height="50"> <img src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" align="center" height="50">
 </div><br>
 
 
