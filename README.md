@@ -43,7 +43,7 @@ I like programming, design, photography and I always want to learn new things.<b
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MAR-AM&theme=dracula)](https://git.io/streak-stats)
+<!--[![GitHub Streak](https://streak-stats.demolab.com/?user=MAR-AM&theme=dracula)](https://git.io/streak-stats)-->
 
 ## ♡ GitHub Stats :
 <br>
