@@ -36,7 +36,7 @@ I like programming, design, photography and I always want to learn new things.<b
 </div><br>
 
 
-<p align="center" width ="700px"><img style="color: darkslateblue" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MAR-AM&show_icons=true&locale=en&layout=compact&card_width=520" alt="MAR-AM" /></p>
+<p align="center" width ="700px"><img style="color: purple" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MAR-AM&show_icons=true&locale=en&layout=compact&card_width=520" alt="MAR-AM" /></p>
 
 
 
